@@ -1,2 +1,2 @@
 # My_work
-checking git hub 
+checking git hub commit option
